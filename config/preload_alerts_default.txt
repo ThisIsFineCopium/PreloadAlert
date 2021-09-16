@@ -503,28 +503,28 @@ Metadata/Monsters/Goatman/GoatmanLeapBossSideAreaInvasion; Invasion Boss, Konu, 
 Metadata/Monsters/Kiweth/KiwethBossSideAreaInvasion; Invasion Boss, Inti of the Blood Moon; ffDC143C
 
 # TORMENTED SPIRITS
-Metadata/Monsters/Spirit/TormentedArsonist; Tormented Arsonist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedFreezer; Tormented Aurora Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedBlasphemer; Tormented Blasphemer; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCannibal; Tormented Cannibal; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCharlatan; Tormented Charlatan; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCutthroat; Tormented Cutthroat; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedEmbezzler; Tormented Embezzler; ffFF00FF
-Metadata/Monsters/Spirit/TormentedCounterfeiter; Tormented Forger; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedMartyr; Tormented Martyr; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedMutilator; Tormented Mutilator; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedNecromancer; Tormented Necromancer; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedPoisoner; Tormented Poisoner; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedRogue; Tormented Rogue; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedLibrarian; Tormented Seditionist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedSmuggler; Tormented Smuggler; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedSpy; Tormented Spy; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedExperimenter; Tormented Storm Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedThief; Tormented Thief; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedThug; Tormented Thug; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCorrupter; Tormented Vaal Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedWarlord; Tormented Warlord; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedFisherman; Tormented Illegal Fisherman; ffFF00FF
+#Metadata/Monsters/Spirit/TormentedArsonist; Tormented Arsonist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedFreezer; Tormented Aurora Cultist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedBlasphemer; Tormented Blasphemer; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCannibal; Tormented Cannibal; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCharlatan; Tormented Charlatan; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCutthroat; Tormented Cutthroat; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedEmbezzler; Tormented Embezzler; ffFF00FF
+#Metadata/Monsters/Spirit/TormentedCounterfeiter; Tormented Forger; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedMartyr; Tormented Martyr; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedMutilator; Tormented Mutilator; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedNecromancer; Tormented Necromancer; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedPoisoner; Tormented Poisoner; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedRogue; Tormented Rogue; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedLibrarian; Tormented Seditionist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedSmuggler; Tormented Smuggler; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedSpy; Tormented Spy; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedExperimenter; Tormented Storm Cultist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedThief; Tormented Thief; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedThug; Tormented Thug; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedCorrupter; Tormented Vaal Cultist; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedWarlord; Tormented Warlord; ffC6FFC6
+#Metadata/Monsters/Spirit/TormentedFisherman; Tormented Illegal Fisherman; ffFF00FF
 
 # WARBANDS
 #Metadata/Monsters/Wb/WbLightningGrunt1; Brinerot Raider
@@ -707,4 +707,3 @@ ExileTemplar5;Exile Aurelio Voidsinger;ff99ff33
 ExileWitch1;Exile Minara Anenima;ff99ff33
 ExileWitch2;Exile Igna Phoenix;ff99ff33
 ExileWitch4;Exile Dena Lorenni;ff99ff33
-
