@@ -426,87 +426,87 @@ Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss5; Guraq, Daylight's Blade;
 Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideAreaLowbie; Mother of the Hive; ffDC143C
 
 # INVASION BOSSES
-Metadata/Monsters/Axis/AxisCasterBossInvasion; Invasion Boss, Evocata Apocalyptica; ffDC143C
-Metadata/Monsters/Axis/AxisExperimenterBossInvasion; Invasion, Boss Docere Incarnatis; ffDC143C
-Metadata/Monsters/Axis/AxisSoldierBossInvasion; Invasion Boss, Corrector Draconides; ffDC143C
-Metadata/Monsters/Bandits/BanditMeleeBossInvasion; Invasion Boss Balus Stoneskull; ffDC143C
-Metadata/Monsters/Bandits/BanditBowBossInvasion; Invasion Boss, Kall Foxfly; ffDC143C
-Metadata/Monsters/Beasts/BeastBossInvasion; Invasion Boss, Marrowcrush; ffDC143C
-Metadata/Monsters/Rhoas/RhoaBossInvasion; Invasion Boss, The Cadaver Bull; ffDC143C
-Metadata/Monsters/BloodChieftain/BloodChieftainBossInvasion; Invasion Boss, Junglemare; ffDC143C
-Metadata/Monsters/BloodElemental/BloodElementalBossInvasion; Invasion Boss, The Sanguine Wave; ffDC143C
-Metadata/Monsters/Cannibal/CannibalMaleBossInvasion; Invasion Boss, Graveblood; ffDC143C
-Metadata/Monsters/Cannibal/CannibalFemaleBossInvasion; Invasion Boss, Nighteater; ffDC143C
-Metadata/Monsters/Undying/CityStalkerMaleBossInvasion; Invasion Boss, The Book Burner; ffDC143C
-Metadata/Monsters/Undying/CityStalkerFemaleBossInvasion; Invasion Boss, The Bolt Juggler; ffDC143C
-Metadata/Monsters/DemonFemale/DemonFemaleBossInvasion; Invasion Boss, Avatar of Pain; ffDC143C
-Metadata/Monsters/DemonModular/DemonModularBossInvasion; Invasion Boss, Rancor; ffDC143C
-Metadata/Monsters/DemonModular/DemonFemaleRangedBossInvasion; Invasion Boss, Hatespitter; ffDC143C
-Metadata/Monsters/MossMonster/FireMonsterBossInvasion; Invasion Boss, Bluntslag; ffDC143C
-Metadata/Monsters/Monkeys/FlameBearerBossInvasion; Invasion Boss, The Revenant; ffDC143C
-Metadata/Monsters/incaminion/FragmentBossInvasion; Invasion Boss, Judgement Apparatus; ffDC143C
-Metadata/Monsters/Frog/FrogBossInvasion; Invasion Boss, Spinesnap; ffDC143C
-Metadata/Monsters/GemMonster/GemFrogBossInvasion; Invasion Boss, Genesis Paradisae; ffDC143C
-Metadata/Monsters/Goatman/GoatmanBossInvasion; Invasion Boss, Death from Above; ffDC143C
-Metadata/Monsters/Goatman/GoatmanShamanBossInvasion; Invasion Boss, Guardian of the Mound; ffDC143C
-Metadata/Monsters/Grappler/GrapplerBossInvasion; Invasion Boss, Wonderwalker; ffDC143C
-Metadata/Monsters/Guardians/GuardianFireBossInvasion; Invasion Boss, The Raging Mask; ffDC143C
-Metadata/Monsters/Guardians/GuardianLightningBossInvasion; Invasion Boss, The Teetering Mask; ffDC143C
-Metadata/Monsters/Guardians/GuardianHeadFireBossInvasion; Invasion Boss, The Furious Mask; ffDC143C
-Metadata/Monsters/Guardians/GuardianHeadColdBossInvasion; Invasion Boss, The Callous Mask; ffDC143C
-Metadata/Monsters/Guardians/GuardianHeadLightningBossInvasion; Invasion Boss, The Capricious Mask; ffDC143C
-Metadata/Monsters/GemMonster/IguanaBossInvasion; Invasion Boss, Alpha Paradisae; ffDC143C
-Metadata/Monsters/InsectSpawner/CarrionQueenBossInvasion; Invasion Boss, Mother of the Swarm; ffDC143C
-Metadata/Monsters/Kiweth/KiwethBossInvasion; Invasion Boss, Deathflutter; ffDC143C
-Metadata/Monsters/Lion/LionBossInvasion; Invasion Boss, Bladetooth; ffDC143C
-Metadata/Monsters/MossMonster/MossMonsterBossInvasion; Invasion Boss, Granitecrush; ffDC143C
-Metadata/Monsters/Necromancer/NecromancerBossInvasion; Invasion Boss, Corpsestitch; ffDC143C
-Metadata/Monsters/Pyromaniac/PyromaniacBossInvasion; Invasion Boss, The Firestarter; ffDC143C
-Metadata/Monsters/RootSpiders/RootSpiderBossInvasion; Invasion Boss, Wrigglechaw; ffDC143C
-Metadata/Monsters/SandSpitterEmerge/SandSpitterBossInvasion; Invasion Boss, Blinkflame; ffDC143C
-Metadata/Monsters/Seawitch/SeaWitchBossInvasion; Invasion Boss, The Duchess; ffDC143C
-Metadata/Monsters/ShieldCrabs/ShieldCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
-Metadata/Monsters/SandSpitters/SandSpitterFromCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
-Metadata/Monsters/Beasts/BeastSkeletonBossInvasion; Invasion Boss, Mammothcage; ffDC143C
-Metadata/Monsters/Skeletons/SkeletonElementalBossInvasion; Invasion Boss, Harbinger of Elements; ffDC143C
-Metadata/Monsters/Skeletons/SkeletonBowBossInvasion; Invasion Boss, Nightsight; ffDC143C
-Metadata/Monsters/Snake/SnakeMeleeBossInvasion; Invasion Boss, Tailsinger; ffDC143C
-Metadata/Monsters/Snake/SnakeRangedBossInvasion; Invasion Boss, Razorleaf; ffDC143C
-Metadata/Monsters/Spawn/SpawnBossInvasion; Invasion Boss, Stranglecreep; ffDC143C
-Metadata/Monsters/Spiders/SpiderBossInvasion; Invasion Boss, Pewterfang; ffDC143C
-Metadata/Monsters/Spikers/SpikerBossInvasion; Invasion Boss, Bladeback Guardian; ffDC143C
-Metadata/Monsters/Squid/SquidBossInvasion; Invasion Boss, Strangledrift; ffDC143C
-Metadata/Monsters/Totems/TotemBossInvasion; Invasion Boss, Jikeji; ffDC143C
-Metadata/Monsters/Rhoas/RhoaUndeadBossInvasion; Invasion Boss, Ghostram; ffDC143C
-Metadata/Monsters/Undying/UndyingBossInvasion; Invasion Boss, Stranglecrawl; ffDC143C
-Metadata/Monsters/WaterElemental/WaterElementalBossInvasion; Invasion Boss, Mirageblast; ffDC143C
-Metadata/Monsters/ZombieDismember/ZombieBossInvasion; Invasion Boss, The Walking Waste; ffDC143C
-Metadata/Monsters/Monkeys/MonkeyBossInvasion1; Invasion Boss, Blood Stasis; ffDC143C
-Metadata/Monsters/Monkeys/MonkeyBossInvasion2; Invasion Boss, Blood Morpher; ffDC143C
-Metadata/Monsters/Skeletons/SkeletonMeleeBossInvasion; Invasion Boss, Glassmaul; ffDC143C
-Metadata/Monsters/Skeletons/SkeletonLargeBossInvasion; Invasion Boss, Grath; ffDC143C
-Metadata/Monsters/Skeletons/ConstructBossInvasion; Invasion Boss, The Spiritless; ffDC143C
-Metadata/Monsters/GhostPirates/GhostPirateBossInvasion; Invasion Boss, Droolscar; ffDC143C
-Metadata/Monsters/Rhoas/RhoaAlbino; Albino Rhoa
+#Metadata/Monsters/Axis/AxisCasterBossInvasion; Invasion Boss, Evocata Apocalyptica; ffDC143C
+#Metadata/Monsters/Axis/AxisExperimenterBossInvasion; Invasion, Boss Docere Incarnatis; ffDC143C
+#Metadata/Monsters/Axis/AxisSoldierBossInvasion; Invasion Boss, Corrector Draconides; ffDC143C
+#Metadata/Monsters/Bandits/BanditMeleeBossInvasion; Invasion Boss Balus Stoneskull; ffDC143C
+#Metadata/Monsters/Bandits/BanditBowBossInvasion; Invasion Boss, Kall Foxfly; ffDC143C
+#Metadata/Monsters/Beasts/BeastBossInvasion; Invasion Boss, Marrowcrush; ffDC143C
+#Metadata/Monsters/Rhoas/RhoaBossInvasion; Invasion Boss, The Cadaver Bull; ffDC143C
+#Metadata/Monsters/BloodChieftain/BloodChieftainBossInvasion; Invasion Boss, Junglemare; ffDC143C
+#Metadata/Monsters/BloodElemental/BloodElementalBossInvasion; Invasion Boss, The Sanguine Wave; ffDC143C
+#Metadata/Monsters/Cannibal/CannibalMaleBossInvasion; Invasion Boss, Graveblood; ffDC143C
+#Metadata/Monsters/Cannibal/CannibalFemaleBossInvasion; Invasion Boss, Nighteater; ffDC143C
+#Metadata/Monsters/Undying/CityStalkerMaleBossInvasion; Invasion Boss, The Book Burner; ffDC143C
+#Metadata/Monsters/Undying/CityStalkerFemaleBossInvasion; Invasion Boss, The Bolt Juggler; ffDC143C
+#Metadata/Monsters/DemonFemale/DemonFemaleBossInvasion; Invasion Boss, Avatar of Pain; ffDC143C
+#Metadata/Monsters/DemonModular/DemonModularBossInvasion; Invasion Boss, Rancor; ffDC143C
+#Metadata/Monsters/DemonModular/DemonFemaleRangedBossInvasion; Invasion Boss, Hatespitter; ffDC143C
+#Metadata/Monsters/MossMonster/FireMonsterBossInvasion; Invasion Boss, Bluntslag; ffDC143C
+#Metadata/Monsters/Monkeys/FlameBearerBossInvasion; Invasion Boss, The Revenant; ffDC143C
+#Metadata/Monsters/incaminion/FragmentBossInvasion; Invasion Boss, Judgement Apparatus; ffDC143C
+#Metadata/Monsters/Frog/FrogBossInvasion; Invasion Boss, Spinesnap; ffDC143C
+#Metadata/Monsters/GemMonster/GemFrogBossInvasion; Invasion Boss, Genesis Paradisae; ffDC143C
+#Metadata/Monsters/Goatman/GoatmanBossInvasion; Invasion Boss, Death from Above; ffDC143C
+#Metadata/Monsters/Goatman/GoatmanShamanBossInvasion; Invasion Boss, Guardian of the Mound; ffDC143C
+#Metadata/Monsters/Grappler/GrapplerBossInvasion; Invasion Boss, Wonderwalker; ffDC143C
+#Metadata/Monsters/Guardians/GuardianFireBossInvasion; Invasion Boss, The Raging Mask; ffDC143C
+#Metadata/Monsters/Guardians/GuardianLightningBossInvasion; Invasion Boss, The Teetering Mask; ffDC143C
+#Metadata/Monsters/Guardians/GuardianHeadFireBossInvasion; Invasion Boss, The Furious Mask; ffDC143C
+#Metadata/Monsters/Guardians/GuardianHeadColdBossInvasion; Invasion Boss, The Callous Mask; ffDC143C
+#Metadata/Monsters/Guardians/GuardianHeadLightningBossInvasion; Invasion Boss, The Capricious Mask; ffDC143C
+#Metadata/Monsters/GemMonster/IguanaBossInvasion; Invasion Boss, Alpha Paradisae; ffDC143C
+#Metadata/Monsters/InsectSpawner/CarrionQueenBossInvasion; Invasion Boss, Mother of the Swarm; ffDC143C
+#Metadata/Monsters/Kiweth/KiwethBossInvasion; Invasion Boss, Deathflutter; ffDC143C
+#Metadata/Monsters/Lion/LionBossInvasion; Invasion Boss, Bladetooth; ffDC143C
+#Metadata/Monsters/MossMonster/MossMonsterBossInvasion; Invasion Boss, Granitecrush; ffDC143C
+#Metadata/Monsters/Necromancer/NecromancerBossInvasion; Invasion Boss, Corpsestitch; ffDC143C
+#Metadata/Monsters/Pyromaniac/PyromaniacBossInvasion; Invasion Boss, The Firestarter; ffDC143C
+#Metadata/Monsters/RootSpiders/RootSpiderBossInvasion; Invasion Boss, Wrigglechaw; ffDC143C
+#Metadata/Monsters/SandSpitterEmerge/SandSpitterBossInvasion; Invasion Boss, Blinkflame; ffDC143C
+#Metadata/Monsters/Seawitch/SeaWitchBossInvasion; Invasion Boss, The Duchess; ffDC143C
+#Metadata/Monsters/ShieldCrabs/ShieldCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
+#Metadata/Monsters/SandSpitters/SandSpitterFromCrabBossInvasion; Invasion Boss, Shivershell; ffDC143C
+#Metadata/Monsters/Beasts/BeastSkeletonBossInvasion; Invasion Boss, Mammothcage; ffDC143C
+#Metadata/Monsters/Skeletons/SkeletonElementalBossInvasion; Invasion Boss, Harbinger of Elements; ffDC143C
+#Metadata/Monsters/Skeletons/SkeletonBowBossInvasion; Invasion Boss, Nightsight; ffDC143C
+#Metadata/Monsters/Snake/SnakeMeleeBossInvasion; Invasion Boss, Tailsinger; ffDC143C
+#Metadata/Monsters/Snake/SnakeRangedBossInvasion; Invasion Boss, Razorleaf; ffDC143C
+#Metadata/Monsters/Spawn/SpawnBossInvasion; Invasion Boss, Stranglecreep; ffDC143C
+#Metadata/Monsters/Spiders/SpiderBossInvasion; Invasion Boss, Pewterfang; ffDC143C
+#Metadata/Monsters/Spikers/SpikerBossInvasion; Invasion Boss, Bladeback Guardian; ffDC143C
+#Metadata/Monsters/Squid/SquidBossInvasion; Invasion Boss, Strangledrift; ffDC143C
+#Metadata/Monsters/Totems/TotemBossInvasion; Invasion Boss, Jikeji; ffDC143C
+#Metadata/Monsters/Rhoas/RhoaUndeadBossInvasion; Invasion Boss, Ghostram; ffDC143C
+#Metadata/Monsters/Undying/UndyingBossInvasion; Invasion Boss, Stranglecrawl; ffDC143C
+#Metadata/Monsters/WaterElemental/WaterElementalBossInvasion; Invasion Boss, Mirageblast; ffDC143C
+#Metadata/Monsters/ZombieDismember/ZombieBossInvasion; Invasion Boss, The Walking Waste; ffDC143C
+#Metadata/Monsters/Monkeys/MonkeyBossInvasion1; Invasion Boss, Blood Stasis; ffDC143C
+#Metadata/Monsters/Monkeys/MonkeyBossInvasion2; Invasion Boss, Blood Morpher; ffDC143C
+#Metadata/Monsters/Skeletons/SkeletonMeleeBossInvasion; Invasion Boss, Glassmaul; ffDC143C
+#Metadata/Monsters/Skeletons/SkeletonLargeBossInvasion; Invasion Boss, Grath; ffDC143C
+#Metadata/Monsters/Skeletons/ConstructBossInvasion; Invasion Boss, The Spiritless; ffDC143C
+#Metadata/Monsters/GhostPirates/GhostPirateBossInvasion; Invasion Boss, Droolscar; ffDC143C
+#Metadata/Monsters/Rhoas/RhoaAlbino; Albino Rhoa
 
-# INVASION BOSSES (Tirn's End EXTRA)
-Metadata/Monsters/DemonFemale/WhipDemonBossSideAreaInvasion; Invasion Boss, Cava, Artist of Pain; ffDC143C
-Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideAreaInvasion; Invasion Boss, Ch'aska, Maker of Rain; ffDC143C
-Metadata/Monsters/Snake/SnakeScorpionBossSideAreaInvasion; Invasion Boss, Thornrunner; ffDC143C
-Metadata/Monsters/GhostPirates/GhostPirateBossSideAreaInvasion; Invasion Boss, Coniraya, Shadow of Malice; ffDC143C
-Metadata/Monsters/Cannibal/CannibalBossSideAreaInvasion; Invasion Boss, Perquil the Lucky; ffDC143C
-Metadata/Monsters/Snake/SnakeRoboBossSideAreaInvasion_; Invasion Boss, Wiraqucha, Ancient Guardian; ffDC143C
-Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideAreaInvasion; Invasion Boss, Wiraq, the Impaler; ffDC143C
-Metadata/Monsters/InsectSpawner/CarrionQueenBossSideAreaInvasion; Invasion Boss, The Sunburst Queen; ffDC143C
-Metadata/Monsters/Totems/TotemBossSideAreaInvasion; Invasion Boss, M'gaska, the Living Pyre; ffDC143C
-Metadata/Monsters/Skeletons/ConstructRangedBossSideAreaInvasion; Invasion Boss, Kutec, Vaal Fleshsmith; ffDC143C
-Metadata/Monsters/Spiders/SpiderBossSideAreaInvasion; Invasion Boss, Cintiq, the Inescapable; ffDC143C
-Metadata/Monsters/Pyromaniac/PyromaniacBossSideAreaInvasion; Invasion Boss, Curator Miem; ffDC143C
-Metadata/Monsters/Goatman/GoatmanShamanBossSideAreaInvasion; Invasion Boss, Sheaq, Maker of Floods; ffDC143C
-Metadata/Monsters/DemonModular/DemonModularElementsBossSideAreaInvasion; Invasion Boss, Atziri's Pride; ffDC143C
-Metadata/Monsters/Seawitch/SeaWitchBossSideAreaInvasion; Invasion Boss, Rima, Deep Temptress; ffDC143C
-Metadata/Monsters/Goatman/GoatmanLeapBossSideAreaInvasion; Invasion Boss, Konu, Maker of Wind; ffDC143C
-Metadata/Monsters/Kiweth/KiwethBossSideAreaInvasion; Invasion Boss, Inti of the Blood Moon; ffDC143C
+## INVASION BOSSES (Tirn's End EXTRA)
+#Metadata/Monsters/DemonFemale/WhipDemonBossSideAreaInvasion; Invasion Boss, Cava, Artist of Pain; ffDC143C
+#Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideAreaInvasion; Invasion Boss, Ch'aska, Maker of Rain; ffDC143C
+#Metadata/Monsters/Snake/SnakeScorpionBossSideAreaInvasion; Invasion Boss, Thornrunner; ffDC143C
+#Metadata/Monsters/GhostPirates/GhostPirateBossSideAreaInvasion; Invasion Boss, Coniraya, Shadow of Malice; ffDC143C
+#Metadata/Monsters/Cannibal/CannibalBossSideAreaInvasion; Invasion Boss, Perquil the Lucky; ffDC143C
+#Metadata/Monsters/Snake/SnakeRoboBossSideAreaInvasion_; Invasion Boss, Wiraqucha, Ancient Guardian; ffDC143C
+#Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideAreaInvasion; Invasion Boss, Wiraq, the Impaler; ffDC143C
+#Metadata/Monsters/InsectSpawner/CarrionQueenBossSideAreaInvasion; Invasion Boss, The Sunburst Queen; ffDC143C
+#Metadata/Monsters/Totems/TotemBossSideAreaInvasion; Invasion Boss, M'gaska, the Living Pyre; ffDC143C
+#Metadata/Monsters/Skeletons/ConstructRangedBossSideAreaInvasion; Invasion Boss, Kutec, Vaal Fleshsmith; ffDC143C
+#Metadata/Monsters/Spiders/SpiderBossSideAreaInvasion; Invasion Boss, Cintiq, the Inescapable; ffDC143C
+#Metadata/Monsters/Pyromaniac/PyromaniacBossSideAreaInvasion; Invasion Boss, Curator Miem; ffDC143C
+#Metadata/Monsters/Goatman/GoatmanShamanBossSideAreaInvasion; Invasion Boss, Sheaq, Maker of Floods; ffDC143C
+#Metadata/Monsters/DemonModular/DemonModularElementsBossSideAreaInvasion; Invasion Boss, Atziri's Pride; ffDC143C
+#Metadata/Monsters/Seawitch/SeaWitchBossSideAreaInvasion; Invasion Boss, Rima, Deep Temptress; ffDC143C
+#Metadata/Monsters/Goatman/GoatmanLeapBossSideAreaInvasion; Invasion Boss, Konu, Maker of Wind; ffDC143C
+#Metadata/Monsters/Kiweth/KiwethBossSideAreaInvasion; Invasion Boss, Inti of the Blood Moon; ffDC143C
 
 # TORMENTED SPIRITS
 #Metadata/Monsters/Spirit/TormentedArsonist; Tormented Arsonist; ffC6FFC6
